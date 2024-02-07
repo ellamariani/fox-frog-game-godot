@@ -1,0 +1,185 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1704415549
+BG.gd::GDScript::-1::1704169685::0::1::::<>ParallaxBackground<>::
+BG.tscn::PackedScene::7555308582372076567::1704249945::0::1::::<><>::uid://jy1uwbvgujg1::::res://sunny-land-phaser-project/sunny-land/assets/environment/back.png<>res://BG.gd<>uid://blnqbpcwwwqor::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/wooden-house.png<>uid://ck0ax1v2owuv7::::res://sunny-land-phaser-project/sunny-land/assets/environment/middle.png<>uid://cktb4cl77f82o::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/tree.png<>uid://dscqaf7ek7xyt::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/rock-2.png<>uid://co68p6uqjwvls::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/pine.png<>uid://dj2ppxobn1j6l::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/plant-house.png<>uid://dvags7lsqpdm3::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/straw-house.png<>uid://dg0u626hyua23::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/sign.png<>uid://rt2s2jhkiwvw::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/house.png<>uid://bvhiii6nfgpr1::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/skulls.png<>uid://d27paxfj2qsud::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/palm.png<>uid://cy1bef0k7fhm4::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/tree-house.png<>uid://ds5ca5btoj0qc::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/shrooms.png<>uid://c2i6riqwsybno::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/rock-1.png
+export_presets.cfg::TextFile::-1::1704249407::0::1::::<><>::
+frog.gd::GDScript::-1::1704245124::0::1::::<>CharacterBody2D<>::
+frog.tscn::PackedScene::7791181624590405160::1704249945::0::1::::<><>::uid://ba7lweg83e05n::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/spritesheets/frog-idle.png<>res://frog.gd<>uid://68up4pvuekd::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/spritesheets/enemy-deadth.png<>uid://bnhltda7uppl6::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/spritesheets/frog-jump.png
+icon.svg::CompressedTexture2D::8920252407654589366::1704159212::1704159217::1::::<><>::
+main.gd::GDScript::-1::1704246014::0::1::::<>Node2D<>::
+main.tscn::PackedScene::218276195549746421::1704249945::0::1::::<><>::res://main.gd<>uid://dfv33f0wdc08r::::res://BG.tscn
+world.tscn::PackedScene::8054077917015317067::1704249945::0::1::::<><>::uid://cgi4vbi6ugqfr::::res://sunny-land-phaser-project/sunny-land/assets/environment/tileset.png<>res://BG.gd<>uid://bnbha3doxc8ol::::res://player/player.tscn<>uid://jy1uwbvgujg1::::res://sunny-land-phaser-project/sunny-land/assets/environment/back.png<>uid://djadvginv61cu::::res://frog.tscn
+::res://collectables/::1704249945
+cherry.tscn::PackedScene::2097321385933399676::1704249945::0::1::::<><>::uid://csblwo2vk42n3::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/cherry/cherry-1.png<>uid://dojsmdo718p1f::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/cherry/cherry-2.png<>uid://c5iitahlku11s::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/cherry/cherry-3.png<>uid://b6i1w3dqjanv8::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/cherry/cherry-4.png<>uid://b678hrvklvegc::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/cherry/cherry-5.png<>uid://f4dy48bwj0ho::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/cherry/cherry-6.png<>uid://hwu6q6tptuuo::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/cherry/cherry-7.png
+::res://FOXGAME/::1704249395
+::res://global/::1704244756
+game.gd::GDScript::-1::1704241894::0::1::::<>Node<>::
+utils.gd::GDScript::-1::1704244756::0::1::::<>Node<>::
+::res://player/::1704249945
+player.gd::GDScript::-1::1704245124::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::3301366523646113259::1704249945::0::1::::<><>::res://player/player.gd<>uid://ldrkvn4gqwej::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/hurt/player-hurt-1.png<>uid://bdpm5e70ek5qu::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/hurt/player-hurt-2.png<>uid://vtu4eudv4s5y::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-1.png<>uid://ccpm414awnjot::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-2.png<>uid://dfqvfyxwgdp5k::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-3.png<>uid://b4ji74vpjsof2::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/idle/player-idle-4.png<>uid://bj0rr0o5ac1js::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/jump/player-jump-1.png<>uid://d2c6s8k3xryc5::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/jump/player-jump-2.png<>uid://deh86lexgq01l::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/run/player-run-1.png<>uid://cn57k1ppo5b1g::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/run/player-run-2.png<>uid://4tcy675up47q::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/run/player-run-3.png<>uid://bvybyvhb51lcx::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/run/player-run-4.png<>uid://brqbn7vajyuwu::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/run/player-run-5.png<>uid://btyf8qvo8ce2t::::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/run/player-run-6.png
+::res://Sunny-land-files/::1704163169
+::res://Sunny-land-files/Sunny-land-files/::1704160864
+public-license.txt::TextFile::-1::1704160864::0::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/Aseprite/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/::1704160865
+tileset.png::CompressedTexture2D::5927176597008409050::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Background/::1704160865
+back.png::CompressedTexture2D::8491080010591455931::1704160864::1704160865::1::::<><>::
+middle.png::CompressedTexture2D::3586445643449921358::1704160864::1704160865::1::::<><>::
+props.png::CompressedTexture2D::4479405698971467612::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/environment/Props/::1704160865
+big-crate.png::CompressedTexture2D::8301682253106792270::1704160864::1704160865::1::::<><>::
+block-big.png::CompressedTexture2D::8751021577067431011::1704160864::1704160865::1::::<><>::
+block.png::CompressedTexture2D::1132363415323563046::1704160864::1704160865::1::::<><>::
+bush.png::CompressedTexture2D::6860597422297131107::1704160864::1704160865::1::::<><>::
+crank-down.png::CompressedTexture2D::838957002099051170::1704160864::1704160865::1::::<><>::
+crank-up.png::CompressedTexture2D::1960161235692051877::1704160864::1704160865::1::::<><>::
+crate.png::CompressedTexture2D::6275155913423585043::1704160864::1704160865::1::::<><>::
+door-opened.png::CompressedTexture2D::7865568015154089606::1704160864::1704160865::1::::<><>::
+door.png::CompressedTexture2D::5316122313196973757::1704160864::1704160865::1::::<><>::
+face-block.png::CompressedTexture2D::3648383998697635957::1704160864::1704160865::1::::<><>::
+house.png::CompressedTexture2D::1234106454634114488::1704160864::1704160865::1::::<><>::
+palm.png::CompressedTexture2D::9121332888534312963::1704160864::1704160865::1::::<><>::
+pine.png::CompressedTexture2D::5821512996224201244::1704160864::1704160865::1::::<><>::
+plant-house.png::CompressedTexture2D::7847638614709435277::1704160864::1704160865::1::::<><>::
+platform-long.png::CompressedTexture2D::6105387304923230547::1704160864::1704160865::1::::<><>::
+rock-1.png::CompressedTexture2D::6686368198845948396::1704160864::1704160865::1::::<><>::
+rock-2.png::CompressedTexture2D::8427761776203151295::1704160864::1704160865::1::::<><>::
+rock.png::CompressedTexture2D::8790889859905668915::1704160864::1704160865::1::::<><>::
+shrooms.png::CompressedTexture2D::8484715581298885966::1704160864::1704160865::1::::<><>::
+sign.png::CompressedTexture2D::7633275722595670770::1704160864::1704160865::1::::<><>::
+skulls.png::CompressedTexture2D::3875337535336904440::1704160864::1704160865::1::::<><>::
+small-platform.png::CompressedTexture2D::4373101360786512809::1704160864::1704160865::1::::<><>::
+spike-skull.png::CompressedTexture2D::8937932519864331286::1704160864::1704160865::1::::<><>::
+spikes-top.png::CompressedTexture2D::8039406847355423610::1704160864::1704160865::1::::<><>::
+spikes.png::CompressedTexture2D::4393869515277830438::1704160864::1704160865::1::::<><>::
+straw-house.png::CompressedTexture2D::8633625912304735800::1704160864::1704160865::1::::<><>::
+tree-house.png::CompressedTexture2D::6511115598207102713::1704160864::1704160865::1::::<><>::
+tree.png::CompressedTexture2D::5514065609646150928::1704160864::1704160865::1::::<><>::
+wooden-house.png::CompressedTexture2D::3186308924162126077::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/GIF Previews/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/GIF Previews/eagle/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/GIF Previews/frog/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/GIF Previews/FX/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/GIF Previews/items/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/GIF Previews/opossum/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/GIF Previews/player/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/PSD/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/PSD/environment/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/PSD/MISC/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/PSD/sprites/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/PSD/sprites/eagle/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/PSD/sprites/frog/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/PSD/sprites/FX/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/PSD/sprites/items/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/PSD/sprites/opossum/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/PSD/sprites/player/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/cherry/::1704160865
+cherry-1.png::CompressedTexture2D::6039012883016483626::1704160864::1704160865::1::::<><>::
+cherry-2.png::CompressedTexture2D::8161599777882255453::1704160864::1704160865::1::::<><>::
+cherry-3.png::CompressedTexture2D::6895541375913577550::1704160864::1704160865::1::::<><>::
+cherry-4.png::CompressedTexture2D::4580409263809645807::1704160864::1704160865::1::::<><>::
+cherry-5.png::CompressedTexture2D::4630352011728374710::1704160864::1704160865::1::::<><>::
+cherry-6.png::CompressedTexture2D::411037757320829928::1704160864::1704160865::1::::<><>::
+cherry-7.png::CompressedTexture2D::538008804668550702::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/eagle/::1704160865
+eagle-attack-1.png::CompressedTexture2D::6338304719870540546::1704160864::1704160865::1::::<><>::
+eagle-attack-2.png::CompressedTexture2D::5714451994318201413::1704160864::1704160865::1::::<><>::
+eagle-attack-3.png::CompressedTexture2D::2431379532210506683::1704160864::1704160865::1::::<><>::
+eagle-attack-4.png::CompressedTexture2D::8905016814515402576::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/enemy-death/::1704160865
+enemy-death-1.png::CompressedTexture2D::7508275548510047767::1704160864::1704160865::1::::<><>::
+enemy-death-2.png::CompressedTexture2D::5174281280354279017::1704160864::1704160865::1::::<><>::
+enemy-death-3.png::CompressedTexture2D::94482653821250907::1704160864::1704160865::1::::<><>::
+enemy-death-4.png::CompressedTexture2D::6361511078110340129::1704160864::1704160865::1::::<><>::
+enemy-death-5.png::CompressedTexture2D::7266059876095986102::1704160864::1704160865::1::::<><>::
+enemy-death-6.png::CompressedTexture2D::2229108168791169993::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/frog/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/frog/idle/::1704160865
+frog-idle-1.png::CompressedTexture2D::6806588135572045792::1704160864::1704160865::1::::<><>::
+frog-idle-2.png::CompressedTexture2D::1153223664132299152::1704160864::1704160865::1::::<><>::
+frog-idle-3.png::CompressedTexture2D::5201908862936522286::1704160864::1704160865::1::::<><>::
+frog-idle-4.png::CompressedTexture2D::8189041139397881775::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/frog/jump/::1704160865
+frog-jump-1.png::CompressedTexture2D::9029114723130861966::1704160864::1704160865::1::::<><>::
+frog-jump-2.png::CompressedTexture2D::2899482594254693767::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/gem/::1704160865
+gem-1.png::CompressedTexture2D::2579213675358225558::1704160864::1704160865::1::::<><>::
+gem-2.png::CompressedTexture2D::2377385484084237827::1704160864::1704160865::1::::<><>::
+gem-3.png::CompressedTexture2D::5005108239282289448::1704160864::1704160865::1::::<><>::
+gem-4.png::CompressedTexture2D::1262310489234304530::1704160864::1704160865::1::::<><>::
+gem-5.png::CompressedTexture2D::4256654095796285704::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/item-feedback/::1704160865
+item-feedback-1.png::CompressedTexture2D::8376391727218435474::1704160864::1704160865::1::::<><>::
+item-feedback-2.png::CompressedTexture2D::6673812493743930792::1704160864::1704160865::1::::<><>::
+item-feedback-3.png::CompressedTexture2D::3916437104882767583::1704160864::1704160865::1::::<><>::
+item-feedback-4.png::CompressedTexture2D::7703588386280881241::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/opossum/::1704160865
+opossum-1.png::CompressedTexture2D::6056326092790990377::1704160864::1704160865::1::::<><>::
+opossum-2.png::CompressedTexture2D::6345377490067579687::1704160864::1704160865::1::::<><>::
+opossum-3.png::CompressedTexture2D::8382261540230750906::1704160864::1704160865::1::::<><>::
+opossum-4.png::CompressedTexture2D::9042183732028998594::1704160864::1704160865::1::::<><>::
+opossum-5.png::CompressedTexture2D::1986897232324931336::1704160864::1704160865::1::::<><>::
+opossum-6.png::CompressedTexture2D::3279532742338487327::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/::1704160864
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/climb/::1704160865
+player-climb-1.png::CompressedTexture2D::3317954831732157322::1704160864::1704160865::1::::<><>::
+player-climb-2.png::CompressedTexture2D::6701508917390864794::1704160864::1704160865::1::::<><>::
+player-climb-3.png::CompressedTexture2D::6619171647732633337::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/crouch/::1704160865
+player-crouch-1.png::CompressedTexture2D::1455231051497377085::1704160864::1704160865::1::::<><>::
+player-crouch-2.png::CompressedTexture2D::5481563778610872655::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/hurt/::1704160865
+player-hurt-1.png::CompressedTexture2D::779321584495724585::1704160864::1704160865::1::::<><>::
+player-hurt-2.png::CompressedTexture2D::2628735319317240412::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/idle/::1704160865
+player-idle-1.png::CompressedTexture2D::1514455262759406964::1704160864::1704160865::1::::<><>::
+player-idle-2.png::CompressedTexture2D::4944966523345956123::1704160864::1704160865::1::::<><>::
+player-idle-3.png::CompressedTexture2D::7544521596250680378::1704160864::1704160865::1::::<><>::
+player-idle-4.png::CompressedTexture2D::4441020986641995709::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/jump/::1704160865
+player-jump-1.png::CompressedTexture2D::3070793603734487164::1704160864::1704160865::1::::<><>::
+player-jump-2.png::CompressedTexture2D::9060405705902568122::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/sprites/player/run/::1704160865
+player-run-1.png::CompressedTexture2D::7456527675271956899::1704160864::1704160865::1::::<><>::
+player-run-2.png::CompressedTexture2D::5749189858490583406::1704160864::1704160865::1::::<><>::
+player-run-3.png::CompressedTexture2D::2074865614917334716::1704160864::1704160865::1::::<><>::
+player-run-4.png::CompressedTexture2D::3910036156126243863::1704160864::1704160865::1::::<><>::
+player-run-5.png::CompressedTexture2D::3612746715119229664::1704160864::1704160865::1::::<><>::
+player-run-6.png::CompressedTexture2D::3769917168570619097::1704160864::1704160865::1::::<><>::
+::res://Sunny-land-files/Sunny-land-files/Graphical Assets/spritesheets/::1704160865
+cherry.png::CompressedTexture2D::8373894852780817417::1704160864::1704160865::1::::<><>::
+eagle-attack.png::CompressedTexture2D::3615271047282290357::1704160864::1704160865::1::::<><>::
+enemy-deadth.png::CompressedTexture2D::66035920375209975::1704160864::1704160865::1::::<><>::
+frog-idle.png::CompressedTexture2D::2453188167108553325::1704160864::1704160865::1::::<><>::
+frog-jump.png::CompressedTexture2D::3314028271321882633::1704160864::1704160865::1::::<><>::
+gem.png::CompressedTexture2D::4384015580594292408::1704160864::1704160865::1::::<><>::
+item-feedback.png::CompressedTexture2D::3085657794803644431::1704160864::1704160865::1::::<><>::
+oposum.png::CompressedTexture2D::1264424522226395986::1704160864::1704160865::1::::<><>::
+player.png::CompressedTexture2D::1385338737494546538::1704160864::1704160865::1::::<><>::
+::res://sunny-land-phaser-project/::1704162637
+::res://sunny-land-phaser-project/sunny-land/::1704160863
+::res://sunny-land-phaser-project/sunny-land/assets/::1704160863
+::res://sunny-land-phaser-project/sunny-land/assets/atlas/::1704160865
+atlas-props.json::JSON::-1::1704160863::0::1::::<><>::
+atlas-props.png::CompressedTexture2D::3667558714738265508::1704160863::1704160865::1::::<><>::
+atlas.json::JSON::-1::1704160863::0::1::::<><>::
+atlas.png::CompressedTexture2D::2163649997459193666::1704160863::1704160865::1::::<><>::
+::res://sunny-land-phaser-project/sunny-land/assets/environment/::1704160865
+back.png::CompressedTexture2D::682860174551218282::1704160863::1704160865::1::::<><>::
+collision.png::CompressedTexture2D::3718103781121999550::1704160863::1704160865::1::::<><>::
+middle.png::CompressedTexture2D::5526381720172183146::1704160863::1704160865::1::::<><>::
+tileset.png::CompressedTexture2D::5212287812026369739::1704160863::1704160865::1::::<><>::
+::res://sunny-land-phaser-project/sunny-land/assets/maps/::1704160863
+map.json::JSON::-1::1704160863::0::1::::<><>::
+::res://sunny-land-phaser-project/sunny-land/assets/sound/::1704160865
+platformer_level03_loop.ogg::AudioStreamOggVorbis::1672727720476156630::1704160863::1704160865::1::::<><>::
+::res://sunny-land-phaser-project/sunny-land/assets/sprites/::1704160865
+credits-text.png::CompressedTexture2D::68185677485312626::1704160863::1704160865::1::::<><>::
+instructions.png::CompressedTexture2D::6412023885834886644::1704160863::1704160865::1::::<><>::
+loading.png::CompressedTexture2D::6817628678508460740::1704160863::1704160865::1::::<><>::
+press-enter-text.png::CompressedTexture2D::1314031575286933604::1704160863::1704160865::1::::<><>::
+title-screen.png::CompressedTexture2D::1237851054795913773::1704160863::1704160865::1::::<><>::
